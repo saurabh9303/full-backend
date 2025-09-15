@@ -8,8 +8,8 @@
     "chai"
   ],
   "license": "ISC",
-  "author": "saurabh",
-  "type": "commonjs",
+  "author": "Saurabh Kumar",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
